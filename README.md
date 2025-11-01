@@ -5,7 +5,7 @@
  ## Features
 
  - **getRoute**: Calculate a simple Route from A to B.
- - **getRoutes**: Calculate a simple Route from A to B - but return all as a [Array]
+ - **getRoutes**: Calculates possible Routes from A to B - return all as a [Array]
  - **search**: Search for Locations -> This has no Ratelimit (but to get full data of the location use *getPlacemark*.
  - **getPlacemark**: Converts a Location Search Result to a "Placemark".
 
